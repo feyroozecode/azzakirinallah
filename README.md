@@ -1,7 +1,8 @@
 # azzakirinallah
 
 Flutter App for Azkaar of Subh And Masa'a 
-
+Azakaar of Subh from : https://www.islambook.com/azkar/1/%D8%A3%D8%B0%D9%83%D8%A7%D8%B1-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD
+Azkaar of Masa'a from : https://www.islambook.com/azkar/2/%D8%A3%D8%B0%D9%83%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%A1
 A new Flutter project.
 
 ## Getting Started
